@@ -1,0 +1,14 @@
+streamlit
+torch
+transformers
+numpy
+pandas
+scikit-learn
+lightgbm
+gensim
+fuzzywuzzy
+python-Levenshtein
+wordcloud
+matplotlib
+seaborn
+xgboost
