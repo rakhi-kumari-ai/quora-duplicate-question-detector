@@ -34,14 +34,28 @@ streamlit run app.py
 
 ## Project Structure
 
+```
+NLP PROJECT/
+│
 ├── data/
+│   ├── cleaned_data.csv
+│   ├── feature_engineered_data.csv
+│   └── sampled_data.csv
+│
 ├── models/
+│   ├── lgbm_model.pkl
+│   └── w2v_model.bin
+│
 ├── notebooks/
 │   ├── 01_EDA.ipynb
 │   ├── 02_feature_engineering.ipynb
 │   ├── 03_feature_analysis_EDA.ipynb
 │   ├── 04_ML_models.ipynb
 │   └── 05_BERT.ipynb
+│
 ├── app.py
 ├── requirements.txt
 └── README.md
+```
+
+Made with ❤️ by Rakhi
