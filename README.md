@@ -26,8 +26,8 @@ Available on HuggingFace: [rakhikumari/quora-duplicate-bert](https://huggingface
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/quora-duplicate-detection.git
-cd quora-duplicate-detection
+git clone https://github.com/rakhi-kumari-ai/quora-duplicate-question-detector.git
+cd quora-duplicate-question-detector
 pip install -r requirements.txt
 streamlit run app.py
 ```
